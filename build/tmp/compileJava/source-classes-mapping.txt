@@ -1,2 +1,6 @@
 ByteExample.java
  ByteExample
+GarbageValueExample.java
+ GarbageValueExample
+CheckValueBeforeCasting.java
+ CheckValueBeforeCasting
