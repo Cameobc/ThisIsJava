@@ -1,3 +1,5 @@
+package variable;
+
 public class CheckValueBeforeCasting {
 
     public static void main(String[] args) {
