@@ -1,4 +1,4 @@
-package lamda.localVariable;
+package lamda.returnExist.localVariable;
 
 public class UsingLocalVariableExample {
     public static void main(String[] args) {

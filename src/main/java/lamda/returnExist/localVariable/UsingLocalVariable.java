@@ -1,4 +1,4 @@
-package lamda.localVariable;
+package lamda.returnExist.localVariable;
 
 public class UsingLocalVariable {
     // arg 는 final 특성을 가짐
